@@ -4,6 +4,10 @@
 	--font-size-base: 16px;
 }
 
+.custom-navbar {
+	background-color: red;
+}
+
 body {
   background-color: #ec7e7e;
   color: black;
